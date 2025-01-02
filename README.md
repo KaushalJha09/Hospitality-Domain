@@ -1,4 +1,4 @@
-# **EDA (EXPLORATORY DATA ANALYSIS) : HOSPITALITY DOMAIN 🏨📊**
+## **EDA (EXPLORATORY DATA ANALYSIS): HOSPITALITY DOMAIN 🏨📊**
 
 ## **📝Project Summary**
 
@@ -38,11 +38,18 @@ Welcome to the EDA Project on AtliQ Grands Hospitality Data! This project analyz
 
 ## **Outcomes:**
 - **Booking Trends & Patterns:**
-Identified seasonal peaks and platform-specific booking preferences, helping to optimize marketing efforts and resource allocation.
+  Occupancy rates peaked on weekends (72.3%) compared to weekdays (50.9%).
+  Seasonal trends showed higher revenue in July, followed by May and June.
 - **Revenue Insights:** 
-Revealed cities and properties experiencing revenue decline, influenced by platform performance, cancellations, and underutilized room categories.
+  The top-performing cities in terms of occupancy are Delhi (60%), Hyderabad (58%), Mumbai (58%), and Bangalore (55%).
+  Revenue was highest from MakeYourTrip, followed by LogTrip and Journey Platform.
 - **Occupancy Analysis:**
-Highlighted opportunities to optimize occupancy rates for underperforming properties, while luxury properties showed higher demand during peak periods.
+  Average occupancy rates across room categories were consistent:
+  Elite: 58%
+  Premium: 58%
+  Presidential: 59.3%
+  Standard: 57.9%
 - **Cancellations:**
-High cancellation rates were linked to specific platforms, suggesting a need for adjusted cancellation policies or targeted customer engagement strategies.
+  Cancellations significantly impacted revenue performance, highlighting a need for better cancellation policies or incentives for confirmed bookings.
+
 
